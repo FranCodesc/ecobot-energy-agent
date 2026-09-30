@@ -10,8 +10,9 @@ consegna.md
 # Grafici generati dall'agente: ~9 MB di PNG che si rigenerano da soli
 grafici/*.png
 
-# Stato runtime dell'app (la missione del giorno), cambia a ogni utilizzo
+# Stato runtime dell'app (missione del giorno e badge), cambia a ogni utilizzo
 missione_attiva.json
+badge_sbloccati.json
 
 # File automatici di Jupyter, Python e macOS
 .ipynb_checkpoints/
